@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://kohls-helpcenter.github.io/sitemap.xml
